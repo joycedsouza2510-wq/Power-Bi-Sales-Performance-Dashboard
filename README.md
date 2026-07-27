@@ -34,8 +34,6 @@ The dashboard enables decision-makers to quickly identify top-performing regions
 - Revenue by Category
 - Revenue by Customer Segment
 
----
-
 ## 2. Customer Analysis Dashboard
 
 - Total Customers
@@ -44,8 +42,6 @@ The dashboard enables decision-makers to quickly identify top-performing regions
 - Top Customers by Revenue
 - Customer Performance Table
 
----
-
 ## 3. Product Analysis Dashboard
 
 - Total Products
@@ -53,8 +49,6 @@ The dashboard enables decision-makers to quickly identify top-performing regions
 - Average Profit per Product
 - Top Products by Revenue
 - Revenue by Category
-
----
 
 ## 4. Salesperson Performance Dashboard
 
@@ -110,7 +104,7 @@ The dashboard enables decision-makers to quickly identify top-performing regions
 
 # 🎯 Project Outcome
 
-This dashboard helps business users monitor key sales metrics, analyse sales performance, identify top-performing products and customers, evaluate regional sales trends, and assess salesperson performance through interactive reports.
+This dashboard enables business users to monitor sales performance, identify trends, evaluate customer and product performance, and measure salesperson effectiveness through interactive reports.
 
 ---
 
@@ -118,25 +112,25 @@ This dashboard helps business users monitor key sales metrics, analyse sales per
 
 ## Executive Sales Dashboard
 
-![Executive Dashboard](Executive Dashboard.png)
+![Executive Dashboard](Executive-Dashboard.png)
 
 ---
 
 ## Customer Analysis Dashboard
 
-![Customer Analysis](Customer Analysis.png)
+![Customer Analysis](Customer-Analysis.png)
 
 ---
 
 ## Product Analysis Dashboard
 
-![Product Analysis](Product Analysis.png)
+![Product Analysis](Product-Analysis.png)
 
 ---
 
 ## Salesperson Performance Dashboard
 
-![Salesperson Performance](Salesperson Performance.png)
+![Salesperson Performance](Salesperson-Performance.png)
 
 ---
 
@@ -151,6 +145,8 @@ This dashboard helps business users monitor key sales metrics, analyse sales per
 
 **Joyce De Souza**
 
-Aspiring Data Analyst | Power BI | SQL | Excel
+Aspiring Data Analyst
+
+**Skills:** Power BI • SQL • Excel • Power Query • DAX
 
 GitHub: https://github.com/joycedsouza2510-wq
