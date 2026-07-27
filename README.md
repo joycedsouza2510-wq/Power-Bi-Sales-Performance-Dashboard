@@ -145,7 +145,7 @@ This dashboard enables business users to monitor sales performance, identify tre
 
 **Joyce De Souza**
 
-Aspiring Data Analyst
+Power BI Enthusiast
 
 **Skills:** Power BI • SQL • Excel • Power Query • DAX
 
