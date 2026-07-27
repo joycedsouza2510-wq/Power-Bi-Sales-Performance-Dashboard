@@ -1,12 +1,18 @@
 # 📊 Sales Performance Dashboard
 
-## 📌 Project Overview
-
-This project is an interactive Sales Performance Dashboard built using Power BI. It helps analyse sales trends, customer behaviour, product performance and salesperson performance using interactive visualisations and KPIs.
+An interactive Business Intelligence dashboard built using **Power BI** to analyse sales performance across regions, customers, products, and salespeople.
 
 ---
 
-## 🛠 Tools & Technologies
+# 📌 Project Overview
+
+This project is an interactive Sales Performance Dashboard built using **Power BI**. It provides valuable business insights by analysing sales trends, customer behaviour, product performance, and salesperson performance through interactive visualisations and KPIs.
+
+The dashboard enables decision-makers to quickly identify top-performing regions, customers, products, and salespeople while monitoring overall business performance.
+
+---
+
+# 🛠️ Tools & Technologies
 
 - Power BI
 - Power Query
@@ -15,9 +21,10 @@ This project is an interactive Sales Performance Dashboard built using Power BI.
 
 ---
 
-## 📈 Dashboard Pages
+# 📈 Dashboard Pages
 
-### 1. Executive Sales Dashboard
+## 1. Executive Sales Dashboard
+
 - Total Revenue
 - Total Profit
 - Total Orders
@@ -27,30 +34,39 @@ This project is an interactive Sales Performance Dashboard built using Power BI.
 - Revenue by Category
 - Revenue by Customer Segment
 
-### 2. Customer Analysis Dashboard
+---
+
+## 2. Customer Analysis Dashboard
+
 - Total Customers
 - Average Revenue per Customer
 - Average Order Value
-- Top Customers
+- Top Customers by Revenue
 - Customer Performance Table
 
-### 3. Product Analysis Dashboard
+---
+
+## 3. Product Analysis Dashboard
+
 - Total Products
 - Average Revenue per Product
 - Average Profit per Product
-- Top Products
+- Top Products by Revenue
 - Revenue by Category
 
-### 4. Salesperson Performance Dashboard
+---
+
+## 4. Salesperson Performance Dashboard
+
 - Total Salespeople
 - Average Revenue per Salesperson
 - Average Profit per Salesperson
-- Top Salespeople
+- Top Salespeople by Revenue
 - Salesperson Performance Table
 
 ---
 
-## 📊 Key KPIs
+# 📊 Key KPIs
 
 - Total Revenue
 - Total Profit
@@ -65,29 +81,76 @@ This project is an interactive Sales Performance Dashboard built using Power BI.
 
 ---
 
-## 💡 Skills Demonstrated
+# 📌 Business Questions Answered
 
-- Data Cleaning using Power Query
-- Data Modelling
-- DAX Measures
-- KPI Development
-- Dashboard Design
-- Interactive Reporting
-- Business Intelligence
-- Data Visualisation
+- Which region generates the highest revenue?
+- Which customer contributes the most revenue?
+- Which product category performs best?
+- Which products generate the highest sales?
+- Which salesperson generates the highest revenue and profit?
+- How do different customer segments contribute to overall sales?
+- What are the overall sales and profit trends?
 
 ---
 
-## 📁 Files Included
+# 💡 Skills Demonstrated
+
+- Data Cleaning using Power Query
+- Data Transformation
+- Data Modelling
+- DAX Measures
+- KPI Development
+- Interactive Dashboard Design
+- Business Intelligence Reporting
+- Data Visualisation
+- Slicers & Filters
+- Dashboard Navigation
+
+---
+
+# 🎯 Project Outcome
+
+This dashboard helps business users monitor key sales metrics, analyse sales performance, identify top-performing products and customers, evaluate regional sales trends, and assess salesperson performance through interactive reports.
+
+---
+
+# 📷 Dashboard Preview
+
+## Executive Sales Dashboard
+
+![Executive Dashboard](Executive Dashboard.png)
+
+---
+
+## Customer Analysis Dashboard
+
+![Customer Analysis](Customer Analysis.png)
+
+---
+
+## Product Analysis Dashboard
+
+![Product Analysis](Product Analysis.png)
+
+---
+
+## Salesperson Performance Dashboard
+
+![Salesperson Performance](Salesperson Performance.png)
+
+---
+
+# 📁 Files Included
 
 - Sales Performance Dashboard.pbix
 - Sales_Performance_Dataset.xlsx
 
 ---
 
-## 👩‍💻 Author
+# 👩‍💻 Author
 
 **Joyce De Souza**
 
 Aspiring Data Analyst | Power BI | SQL | Excel
 
+GitHub: https://github.com/joycedsouza2510-wq
