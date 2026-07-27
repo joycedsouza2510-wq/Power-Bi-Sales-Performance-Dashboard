@@ -118,25 +118,25 @@ This dashboard helps business users monitor key sales metrics, analyse sales per
 
 ## Executive Sales Dashboard
 
-![Executive Dashboard](Executive Dashboard.png)
+![Executive Dashboard](Executive Dashboard.PNG)
 
 ---
 
 ## Customer Analysis Dashboard
 
-![Customer Analysis](Customer Analysis.png)
+![Customer Analysis](Customer Analysis.PNG)
 
 ---
 
 ## Product Analysis Dashboard
 
-![Product Analysis](Product Analysis.png)
+![Product Analysis](Product Analysis.PNG)
 
 ---
 
 ## Salesperson Performance Dashboard
 
-![Salesperson Performance](Salesperson Performance.png)
+![Salesperson Performance](Salesperson Performance.PNG)
 
 ---
 
